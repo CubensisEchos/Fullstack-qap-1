@@ -10,8 +10,10 @@ When running the program, you would replace options with --length X, --lowercase
 Help for the prograam can be found by running the help flag in the terminal (--help).
 
 How to run the tests.
+
 To run the tests please insure you have jest installed in your node modules.
 Once you have jest installed, you can simple run npm tests in the terminal and they will run!(you must be in the program's directory within the terminal)
+
 
 
 
